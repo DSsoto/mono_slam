@@ -1,11 +1,5 @@
-#include <monoslam.hpp>
-
+#include <mono_slam.hpp>
 
 using namespace std;
 using namespace cv;
-
-int main(int argc, char** argv){
-  
-}
-
 
